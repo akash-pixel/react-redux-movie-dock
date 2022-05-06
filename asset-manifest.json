@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-redux-movie-dock/static/css/main.061856cb.css",
+    "main.js": "/react-redux-movie-dock/static/js/main.5d39dacc.js",
+    "static/media/user_icon.png": "/react-redux-movie-dock/static/media/user_icon.a785bc1bc06e14296617.png",
+    "index.html": "/react-redux-movie-dock/index.html",
+    "main.061856cb.css.map": "/react-redux-movie-dock/static/css/main.061856cb.css.map",
+    "main.5d39dacc.js.map": "/react-redux-movie-dock/static/js/main.5d39dacc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.061856cb.css",
+    "static/js/main.5d39dacc.js"
+  ]
+}
